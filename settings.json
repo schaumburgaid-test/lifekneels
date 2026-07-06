@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifekneels.aternos.me",
+    "ip": "lifeknees.aternos.me",
     "port": 53675,
     "version": "1.21.1",
     "try-creative": true
