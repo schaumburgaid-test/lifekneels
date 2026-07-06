@@ -8,8 +8,8 @@
   "server": {
     "ip": "lifekneels.aternos.me",
     "port": 53675,
-    "version": "26.1.2",
-    "try-creative": false
+    "version": "1.21.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Remember to read the rules!",
+        "Welcome to the Server.",
+        "Report Cheaters in the discord server."
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1523725172178423809/BnSpBe-IH1TQ1Ud4HQjC-e_eHA2a-F5N8F-3mYlZFn5OEa1IHFa7xyUX4f2AHWA1_M38",
     "events": {
       "connect": true,
       "disconnect": true,
