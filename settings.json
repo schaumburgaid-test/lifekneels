@@ -2,14 +2,14 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "System",
-    "password": "",
+    "password": "Test@123",
     "type": "online"
   },
   "server": {
     "ip": "lifeknees.aternos.me",
     "port": 53675,
     "version": "1.21.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
