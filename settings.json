@@ -8,7 +8,7 @@
   "server": {
     "ip": "lifeknees.aternos.me",
     "port": 53675,
-    "version": "1.21.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1200,
+      "repeat-delay": 12000,
       "messages": [
         "Remember to read the rules!",
         "Welcome to the Server.",
